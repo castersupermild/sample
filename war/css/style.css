@@ -1,0 +1,20 @@
+table, td, th { 
+	border: 1px #808080 solid; 
+	background-color: #FFFFFF;
+}
+
+thead th {
+	background-color:#DEEFFF;
+	text-align:center;
+}
+
+.small {
+	font-size: 12px;
+}
+
+.error {
+	color: red;
+	font-size: 12px;
+}
+
+form { margin:0px; }
